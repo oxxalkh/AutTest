@@ -2,6 +2,7 @@ import re
 import subprocess
 import re
 
+
 if __name__ == '__main__':
     def check_output(command, text, del_punct=False):
         try:
