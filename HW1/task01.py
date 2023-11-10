@@ -1,5 +1,6 @@
 import subprocess
 
+
 if __name__ == '__main__':
     def check_output(command, text):
         result = subprocess.run(command, shell=True, stdout=subprocess.PIPE, encoding="utf-8")
