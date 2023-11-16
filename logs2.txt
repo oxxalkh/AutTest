@@ -1,0 +1,267 @@
+Journal of logs 
+ ноя 18 19:35:51 userpc sudo[132465]: pam_unix(sudo:session): session closed for user root
+ноя 18 19:35:51 userpc sshd[132424]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:51 userpc systemd[1]: session-2665.scope: Deactivated successfully.
+ноя 18 19:35:51 userpc systemd[1]: session-2665.scope: Consumed 1.024s CPU time.
+ноя 18 19:35:51 userpc systemd-logind[722]: Session 2665 logged out. Waiting for processes to exit.
+ноя 18 19:35:51 userpc systemd-logind[722]: Removed session 2665.
+ноя 18 19:35:51 userpc sshd[132472]: Accepted password for user2 from 127.0.0.1 port 34264 ssh2
+ноя 18 19:35:51 userpc sshd[132472]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:51 userpc systemd-logind[722]: New session 2666 of user user2.
+ноя 18 19:35:51 userpc systemd[1]: Started Session 2666 of User user2.
+ноя 18 19:35:51 userpc snapd-desktop-i[114327]: Detected new session 2666 at /org/freedesktop/login1/session/_32666
+ноя 18 19:35:51 userpc sshd[132472]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:51 userpc systemd[1]: session-2666.scope: Deactivated successfully.
+ноя 18 19:35:51 userpc systemd-logind[722]: Session 2666 logged out. Waiting for processes to exit.
+ноя 18 19:35:51 userpc systemd-logind[722]: Removed session 2666.
+ноя 18 19:35:51 userpc sshd[132515]: Accepted password for user2 from 127.0.0.1 port 34278 ssh2
+ноя 18 19:35:51 userpc sshd[132515]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:51 userpc systemd-logind[722]: New session 2667 of user user2.
+ноя 18 19:35:51 userpc systemd[1]: Started Session 2667 of User user2.
+ноя 18 19:35:51 userpc snapd-desktop-i[114327]: Detected new session 2667 at /org/freedesktop/login1/session/_32667
+ноя 18 19:35:51 userpc sudo[132556]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:35:51
+ноя 18 19:35:51 userpc sudo[132556]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:35:53 userpc sshd[132767]: Accepted password for user2 from 127.0.0.1 port 34318 ssh2
+ноя 18 19:35:53 userpc sshd[132767]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:53 userpc systemd-logind[722]: New session 2673 of user user2.
+ноя 18 19:35:53 userpc systemd[1]: Started Session 2673 of User user2.
+ноя 18 19:35:53 userpc snapd-desktop-i[114327]: Detected new session 2673 at /org/freedesktop/login1/session/_32673
+ноя 18 19:35:53 userpc sshd[132767]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:53 userpc systemd[1]: session-2673.scope: Deactivated successfully.
+ноя 18 19:35:53 userpc systemd-logind[722]: Session 2673 logged out. Waiting for processes to exit.
+ноя 18 19:35:53 userpc systemd-logind[722]: Removed session 2673.
+ноя 18 19:35:53 userpc sshd[132814]: Accepted password for user2 from 127.0.0.1 port 49866 ssh2
+ноя 18 19:35:53 userpc sshd[132814]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:53 userpc systemd-logind[722]: New session 2674 of user user2.
+ноя 18 19:35:53 userpc systemd[1]: Started Session 2674 of User user2.
+ноя 18 19:35:53 userpc snapd-desktop-i[114327]: Detected new session 2674 at /org/freedesktop/login1/session/_32674
+ноя 18 19:35:53 userpc sudo[132857]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:35:53
+ноя 18 19:35:53 userpc sudo[132857]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:35:57 userpc systemd-logind[722]: New session 2687 of user user2.
+ноя 18 19:35:57 userpc systemd[1]: Started Session 2687 of User user2.
+ноя 18 19:35:57 userpc snapd-desktop-i[114327]: Detected new session 2687 at /org/freedesktop/login1/session/_32687
+ноя 18 19:35:57 userpc sshd[133365]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:57 userpc systemd-logind[722]: Session 2687 logged out. Waiting for processes to exit.
+ноя 18 19:35:57 userpc systemd[1]: session-2687.scope: Deactivated successfully.
+ноя 18 19:35:57 userpc systemd-logind[722]: Removed session 2687.
+ноя 18 19:35:57 userpc sshd[133407]: Accepted password for user2 from 127.0.0.1 port 49974 ssh2
+ноя 18 19:35:57 userpc sshd[133407]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:57 userpc systemd-logind[722]: New session 2688 of user user2.
+ноя 18 19:35:57 userpc systemd[1]: Started Session 2688 of User user2.
+ноя 18 19:35:57 userpc snapd-desktop-i[114327]: Detected new session 2688 at /org/freedesktop/login1/session/_32688
+ноя 18 19:35:57 userpc sshd[133407]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:57 userpc systemd[1]: session-2688.scope: Deactivated successfully.
+ноя 18 19:35:57 userpc systemd-logind[722]: Session 2688 logged out. Waiting for processes to exit.
+ноя 18 19:35:57 userpc systemd-logind[722]: Removed session 2688.
+ноя 18 19:35:57 userpc sshd[133451]: Accepted password for user2 from 127.0.0.1 port 49990 ssh2
+ноя 18 19:35:57 userpc sshd[133451]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:57 userpc systemd-logind[722]: New session 2689 of user user2.
+ноя 18 19:35:57 userpc systemd[1]: Started Session 2689 of User user2.
+ноя 18 19:35:57 userpc snapd-desktop-i[114327]: Detected new session 2689 at /org/freedesktop/login1/session/_32689
+ноя 18 19:35:57 userpc sudo[133493]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:35:57
+ноя 18 19:35:57 userpc sudo[133493]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:35:58 userpc sshd[133495]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:58 userpc systemd[1]: session-2690.scope: Deactivated successfully.
+ноя 18 19:35:58 userpc systemd-logind[722]: Session 2690 logged out. Waiting for processes to exit.
+ноя 18 19:35:58 userpc systemd-logind[722]: Removed session 2690.
+ноя 18 19:35:58 userpc sshd[133537]: Accepted password for user2 from 127.0.0.1 port 50016 ssh2
+ноя 18 19:35:58 userpc sshd[133537]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:58 userpc systemd-logind[722]: New session 2691 of user user2.
+ноя 18 19:35:58 userpc systemd[1]: Started Session 2691 of User user2.
+ноя 18 19:35:58 userpc snapd-desktop-i[114327]: Detected new session 2691 at /org/freedesktop/login1/session/_32691
+ноя 18 19:35:58 userpc sshd[133537]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:58 userpc systemd[1]: session-2691.scope: Deactivated successfully.
+ноя 18 19:35:58 userpc systemd-logind[722]: Session 2691 logged out. Waiting for processes to exit.
+ноя 18 19:35:58 userpc systemd-logind[722]: Removed session 2691.
+ноя 18 19:35:58 userpc sshd[133579]: Accepted password for user2 from 127.0.0.1 port 50032 ssh2
+ноя 18 19:35:58 userpc sshd[133579]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:58 userpc systemd-logind[722]: New session 2692 of user user2.
+ноя 18 19:35:58 userpc systemd[1]: Started Session 2692 of User user2.
+ноя 18 19:35:58 userpc snapd-desktop-i[114327]: Detected new session 2692 at /org/freedesktop/login1/session/_32692
+ноя 18 19:35:58 userpc sshd[133579]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:58 userpc systemd[1]: session-2692.scope: Deactivated successfully.
+ноя 18 19:35:58 userpc systemd-logind[722]: Session 2692 logged out. Waiting for processes to exit.
+ноя 18 19:35:58 userpc systemd-logind[722]: Removed session 2692.
+ноя 18 19:35:58 userpc sshd[133620]: Accepted password for user2 from 127.0.0.1 port 50038 ssh2
+ноя 18 19:35:58 userpc sshd[133620]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:58 userpc systemd-logind[722]: New session 2693 of user user2.
+ноя 18 19:35:58 userpc systemd[1]: Started Session 2693 of User user2.
+ноя 18 19:35:58 userpc snapd-desktop-i[114327]: Detected new session 2693 at /org/freedesktop/login1/session/_32693
+ноя 18 19:35:58 userpc sshd[133620]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:35:58 userpc systemd-logind[722]: Session 2693 logged out. Waiting for processes to exit.
+ноя 18 19:35:58 userpc systemd[1]: session-2693.scope: Deactivated successfully.
+ноя 18 19:35:58 userpc systemd-logind[722]: Removed session 2693.
+ноя 18 19:35:58 userpc sshd[133663]: Accepted password for user2 from 127.0.0.1 port 50044 ssh2
+ноя 18 19:35:59 userpc sshd[133663]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:35:59 userpc systemd-logind[722]: New session 2694 of user user2.
+ноя 18 19:35:59 userpc systemd[1]: Started Session 2694 of User user2.
+ноя 18 19:35:59 userpc snapd-desktop-i[114327]: Detected new session 2694 at /org/freedesktop/login1/session/_32694
+ноя 18 19:35:59 userpc sudo[133706]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:35:58
+ноя 18 19:35:59 userpc sudo[133706]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:36:00 userpc sshd[133836]: Accepted password for user2 from 127.0.0.1 port 50082 ssh2
+ноя 18 19:36:00 userpc sshd[133836]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:00 userpc systemd-logind[722]: New session 2698 of user user2.
+ноя 18 19:36:00 userpc systemd[1]: Started Session 2698 of User user2.
+ноя 18 19:36:00 userpc snapd-desktop-i[114327]: Detected new session 2698 at /org/freedesktop/login1/session/_32698
+ноя 18 19:36:00 userpc sshd[133836]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:00 userpc systemd[1]: session-2698.scope: Deactivated successfully.
+ноя 18 19:36:00 userpc systemd-logind[722]: Session 2698 logged out. Waiting for processes to exit.
+ноя 18 19:36:00 userpc systemd-logind[722]: Removed session 2698.
+ноя 18 19:36:00 userpc sshd[133880]: Accepted password for user2 from 127.0.0.1 port 50092 ssh2
+ноя 18 19:36:00 userpc sshd[133880]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:00 userpc systemd-logind[722]: New session 2699 of user user2.
+ноя 18 19:36:00 userpc systemd[1]: Started Session 2699 of User user2.
+ноя 18 19:36:00 userpc snapd-desktop-i[114327]: Detected new session 2699 at /org/freedesktop/login1/session/_32699
+ноя 18 19:36:00 userpc sudo[133921]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:36:00
+ноя 18 19:36:00 userpc sudo[133921]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:36:03 userpc sshd[134304]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:03 userpc systemd[1]: session-2709.scope: Deactivated successfully.
+ноя 18 19:36:03 userpc systemd-logind[722]: Session 2709 logged out. Waiting for processes to exit.
+ноя 18 19:36:03 userpc systemd-logind[722]: Removed session 2709.
+ноя 18 19:36:03 userpc sshd[134346]: Accepted password for user2 from 127.0.0.1 port 50190 ssh2
+ноя 18 19:36:03 userpc sshd[134346]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:03 userpc systemd-logind[722]: New session 2710 of user user2.
+ноя 18 19:36:03 userpc systemd[1]: Started Session 2710 of User user2.
+ноя 18 19:36:03 userpc snapd-desktop-i[114327]: Detected new session 2710 at /org/freedesktop/login1/session/_32710
+ноя 18 19:36:03 userpc sshd[134346]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:03 userpc systemd[1]: session-2710.scope: Deactivated successfully.
+ноя 18 19:36:03 userpc systemd-logind[722]: Session 2710 logged out. Waiting for processes to exit.
+ноя 18 19:36:03 userpc systemd-logind[722]: Removed session 2710.
+ноя 18 19:36:03 userpc sshd[134387]: Accepted password for user2 from 127.0.0.1 port 43312 ssh2
+ноя 18 19:36:03 userpc sshd[134387]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:03 userpc systemd-logind[722]: New session 2711 of user user2.
+ноя 18 19:36:03 userpc systemd[1]: Started Session 2711 of User user2.
+ноя 18 19:36:03 userpc snapd-desktop-i[114327]: Detected new session 2711 at /org/freedesktop/login1/session/_32711
+ноя 18 19:36:03 userpc sshd[134387]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:03 userpc systemd[1]: session-2711.scope: Deactivated successfully.
+ноя 18 19:36:03 userpc systemd-logind[722]: Session 2711 logged out. Waiting for processes to exit.
+ноя 18 19:36:03 userpc systemd-logind[722]: Removed session 2711.
+ноя 18 19:36:03 userpc sshd[134428]: Accepted password for user2 from 127.0.0.1 port 43314 ssh2
+ноя 18 19:36:03 userpc sshd[134428]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:03 userpc systemd-logind[722]: New session 2712 of user user2.
+ноя 18 19:36:03 userpc systemd[1]: Started Session 2712 of User user2.
+ноя 18 19:36:03 userpc snapd-desktop-i[114327]: Detected new session 2712 at /org/freedesktop/login1/session/_32712
+ноя 18 19:36:03 userpc sshd[134428]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:03 userpc systemd[1]: session-2712.scope: Deactivated successfully.
+ноя 18 19:36:03 userpc systemd-logind[722]: Session 2712 logged out. Waiting for processes to exit.
+ноя 18 19:36:03 userpc systemd-logind[722]: Removed session 2712.
+ноя 18 19:36:03 userpc sshd[134472]: Accepted password for user2 from 127.0.0.1 port 43326 ssh2
+ноя 18 19:36:03 userpc sshd[134472]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:03 userpc systemd-logind[722]: New session 2713 of user user2.
+ноя 18 19:36:03 userpc systemd[1]: Started Session 2713 of User user2.
+ноя 18 19:36:03 userpc snapd-desktop-i[114327]: Detected new session 2713 at /org/freedesktop/login1/session/_32713
+ноя 18 19:36:04 userpc sudo[134514]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:36:03
+ноя 18 19:36:04 userpc sudo[134514]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:36:08 userpc sshd[135190]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:08 userpc systemd[1]: session-2730.scope: Deactivated successfully.
+ноя 18 19:36:08 userpc systemd-logind[722]: Session 2730 logged out. Waiting for processes to exit.
+ноя 18 19:36:08 userpc systemd-logind[722]: Removed session 2730.
+ноя 18 19:36:08 userpc sshd[135231]: Accepted password for user2 from 127.0.0.1 port 43510 ssh2
+ноя 18 19:36:08 userpc sshd[135231]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:08 userpc systemd-logind[722]: New session 2731 of user user2.
+ноя 18 19:36:08 userpc systemd[1]: Started Session 2731 of User user2.
+ноя 18 19:36:08 userpc snapd-desktop-i[114327]: Detected new session 2731 at /org/freedesktop/login1/session/_32731
+ноя 18 19:36:08 userpc sshd[135231]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:08 userpc systemd[1]: session-2731.scope: Deactivated successfully.
+ноя 18 19:36:08 userpc systemd-logind[722]: Session 2731 logged out. Waiting for processes to exit.
+ноя 18 19:36:08 userpc systemd-logind[722]: Removed session 2731.
+ноя 18 19:36:08 userpc sshd[135275]: Accepted password for user2 from 127.0.0.1 port 43516 ssh2
+ноя 18 19:36:08 userpc sshd[135275]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:08 userpc systemd-logind[722]: New session 2732 of user user2.
+ноя 18 19:36:08 userpc systemd[1]: Started Session 2732 of User user2.
+ноя 18 19:36:08 userpc snapd-desktop-i[114327]: Detected new session 2732 at /org/freedesktop/login1/session/_32732
+ноя 18 19:36:08 userpc sudo[135317]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:36:08
+ноя 18 19:36:08 userpc sudo[135317]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:36:09 userpc sshd[135362]: Accepted password for user2 from 127.0.0.1 port 43536 ssh2
+ноя 18 19:36:09 userpc sshd[135362]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:09 userpc systemd-logind[722]: New session 2734 of user user2.
+ноя 18 19:36:09 userpc systemd[1]: Started Session 2734 of User user2.
+ноя 18 19:36:09 userpc snapd-desktop-i[114327]: Detected new session 2734 at /org/freedesktop/login1/session/_32734
+ноя 18 19:36:09 userpc sshd[135362]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:09 userpc systemd[1]: session-2734.scope: Deactivated successfully.
+ноя 18 19:36:09 userpc systemd-logind[722]: Session 2734 logged out. Waiting for processes to exit.
+ноя 18 19:36:09 userpc systemd-logind[722]: Removed session 2734.
+ноя 18 19:36:09 userpc sshd[135404]: Accepted password for user2 from 127.0.0.1 port 43542 ssh2
+ноя 18 19:36:09 userpc sshd[135404]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:09 userpc systemd-logind[722]: New session 2735 of user user2.
+ноя 18 19:36:09 userpc systemd[1]: Started Session 2735 of User user2.
+ноя 18 19:36:09 userpc snapd-desktop-i[114327]: Detected new session 2735 at /org/freedesktop/login1/session/_32735
+ноя 18 19:36:09 userpc sshd[135404]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:09 userpc systemd[1]: session-2735.scope: Deactivated successfully.
+ноя 18 19:36:09 userpc systemd-logind[722]: Session 2735 logged out. Waiting for processes to exit.
+ноя 18 19:36:09 userpc systemd-logind[722]: Removed session 2735.
+ноя 18 19:36:09 userpc sshd[135444]: Accepted password for user2 from 127.0.0.1 port 43556 ssh2
+ноя 18 19:36:09 userpc sshd[135444]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:09 userpc systemd-logind[722]: New session 2736 of user user2.
+ноя 18 19:36:09 userpc systemd[1]: Started Session 2736 of User user2.
+ноя 18 19:36:09 userpc snapd-desktop-i[114327]: Detected new session 2736 at /org/freedesktop/login1/session/_32736
+ноя 18 19:36:09 userpc sshd[135444]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:36:09 userpc systemd[1]: session-2736.scope: Deactivated successfully.
+ноя 18 19:36:09 userpc systemd-logind[722]: Session 2736 logged out. Waiting for processes to exit.
+ноя 18 19:36:09 userpc systemd-logind[722]: Removed session 2736.
+ноя 18 19:36:09 userpc sshd[135489]: Accepted password for user2 from 127.0.0.1 port 43564 ssh2
+ноя 18 19:36:09 userpc sshd[135489]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:36:09 userpc systemd-logind[722]: New session 2737 of user user2.
+ноя 18 19:36:09 userpc systemd[1]: Started Session 2737 of User user2.
+ноя 18 19:36:09 userpc snapd-desktop-i[114327]: Detected new session 2737 at /org/freedesktop/login1/session/_32737
+ноя 18 19:36:10 userpc sudo[135530]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:36:09
+ноя 18 19:36:10 userpc sudo[135530]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:37:57 userpc systemd[1]: session-2760.scope: Deactivated successfully.
+ноя 18 19:37:57 userpc systemd[1]: session-2760.scope: Consumed 1.064s CPU time.
+ноя 18 19:37:58 userpc systemd-logind[722]: Session 2760 logged out. Waiting for processes to exit.
+ноя 18 19:37:58 userpc systemd-logind[722]: Removed session 2760.
+ноя 18 19:37:58 userpc sshd[136565]: Accepted password for user2 from 127.0.0.1 port 39188 ssh2
+ноя 18 19:37:58 userpc sshd[136565]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:37:58 userpc systemd-logind[722]: New session 2761 of user user2.
+ноя 18 19:37:58 userpc systemd[1]: Started Session 2761 of User user2.
+ноя 18 19:37:58 userpc snapd-desktop-i[114327]: Detected new session 2761 at /org/freedesktop/login1/session/_32761
+ноя 18 19:37:58 userpc sshd[136565]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:37:58 userpc systemd[1]: session-2761.scope: Deactivated successfully.
+ноя 18 19:37:58 userpc systemd-logind[722]: Session 2761 logged out. Waiting for processes to exit.
+ноя 18 19:37:58 userpc systemd-logind[722]: Removed session 2761.
+ноя 18 19:37:58 userpc sshd[136608]: Accepted password for user2 from 127.0.0.1 port 39196 ssh2
+ноя 18 19:37:58 userpc sshd[136608]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:37:58 userpc systemd-logind[722]: New session 2762 of user user2.
+ноя 18 19:37:58 userpc systemd[1]: Started Session 2762 of User user2.
+ноя 18 19:37:58 userpc snapd-desktop-i[114327]: Detected new session 2762 at /org/freedesktop/login1/session/_32762
+ноя 18 19:37:58 userpc sudo[136649]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:37:58
+ноя 18 19:37:58 userpc sudo[136649]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: Journal of logs 
+ ноя 18 19:38:00 userpc sshd[136784]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:38:00 userpc systemd[1]: session-2766.scope: Deactivated successfully.
+ноя 18 19:38:00 userpc systemd-logind[722]: Session 2766 logged out. Waiting for processes to exit.
+ноя 18 19:38:00 userpc systemd-logind[722]: Removed session 2766.
+ноя 18 19:38:00 userpc sshd[136827]: Accepted password for user2 from 127.0.0.1 port 39242 ssh2
+ноя 18 19:38:00 userpc sshd[136827]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:38:00 userpc systemd-logind[722]: New session 2767 of user user2.
+ноя 18 19:38:00 userpc systemd[1]: Started Session 2767 of User user2.
+ноя 18 19:38:00 userpc snapd-desktop-i[114327]: Detected new session 2767 at /org/freedesktop/login1/session/_32767
+ноя 18 19:38:00 userpc sshd[136827]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:38:00 userpc systemd[1]: session-2767.scope: Deactivated successfully.
+ноя 18 19:38:00 userpc systemd-logind[722]: Session 2767 logged out. Waiting for processes to exit.
+ноя 18 19:38:00 userpc systemd-logind[722]: Removed session 2767.
+ноя 18 19:38:00 userpc sshd[136868]: Accepted password for user2 from 127.0.0.1 port 39248 ssh2
+ноя 18 19:38:00 userpc sshd[136868]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:38:00 userpc systemd[1]: Started Session 2768 of User user2.
+ноя 18 19:38:00 userpc systemd-logind[722]: New session 2768 of user user2.
+ноя 18 19:38:00 userpc snapd-desktop-i[114327]: Detected new session 2768 at /org/freedesktop/login1/session/_32768
+ноя 18 19:38:00 userpc sshd[136868]: pam_unix(sshd:session): session closed for user user2
+ноя 18 19:38:00 userpc systemd[1]: session-2768.scope: Deactivated successfully.
+ноя 18 19:38:00 userpc systemd-logind[722]: Session 2768 logged out. Waiting for processes to exit.
+ноя 18 19:38:00 userpc systemd-logind[722]: Removed session 2768.
+ноя 18 19:38:00 userpc sshd[136912]: Accepted password for user2 from 127.0.0.1 port 39254 ssh2
+ноя 18 19:38:00 userpc sshd[136912]: pam_unix(sshd:session): session opened for user user2(uid=1001) by (uid=0)
+ноя 18 19:38:00 userpc systemd-logind[722]: New session 2769 of user user2.
+ноя 18 19:38:00 userpc systemd[1]: Started Session 2769 of User user2.
+ноя 18 19:38:00 userpc snapd-desktop-i[114327]: Detected new session 2769 at /org/freedesktop/login1/session/_32769
+ноя 18 19:38:00 userpc sudo[136954]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/journalctl --since 2023-11-18 19:38:00
+ноя 18 19:38:00 userpc sudo[136954]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+[sudo] пароль для user2: 
